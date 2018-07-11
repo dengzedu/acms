@@ -1,0 +1,8 @@
+package com.czswho.acms.acms.dao;
+
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+
+public interface systemDAO {
+}
